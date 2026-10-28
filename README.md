@@ -8,7 +8,6 @@ Full-stack developer at [7shifts](https://www.7shifts.com) in Saskatoon. On the 
 - [pax-buttonica](https://github.com/rubiconRiver/pax-buttonica) — Physical RGB turn buttons for Twilight Imperium 4. 6 3D printed buttons built with ESP32s that light up when it's your turn, with a web app to run everything.  
 
 **Tools**
-- [showreel](https://github.com/rubiconRiver/showreel) — demo video in a box. Script a scene against a web app you can run, shoot it with Playwright, cut it with Remotion.
 - [gitsave](https://github.com/rubiconRiver/gitsave) — a menu bar app so non-developers can save their work with Git in one click.
 - [plant-tracker](https://github.com/rubiconRiver/plant-tracker) — track plants from seed to harvest, with a garden grid, photo timeline, and NFC tags on the real plants.
 
