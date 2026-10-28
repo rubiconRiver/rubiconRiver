@@ -1,6 +1,6 @@
 # Hi, I'm Garett
 
-Full-stack developer at [7shifts](https://www.7shifts.com) in Saskatoon. On the side I build tools for board game nights, small games, and the occasional gadget.
+Full-stack developer at [7shifts](https://www.7shifts.com) in Saskatoon. Whether I'm working or hanging out at home, I love building things and solving problems
 
 ## Things I've made
 
